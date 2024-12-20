@@ -4,7 +4,8 @@ body {
 }
 .homeIcon{
     color: gray;
-    transition: all 2s;
+    transition: all 1.5s;
+    transition-timing-function: linear;
 }
 .homeIcon:hover {
     color: black;
