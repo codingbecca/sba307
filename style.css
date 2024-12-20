@@ -33,3 +33,8 @@ i {
     height: 15rem;
     object-fit: cover;
 }
+.userIcon{
+    padding: 5px;
+    border: 2px gray solid;
+    border-radius: 50%;
+}
