@@ -1,11 +1,6 @@
+/* Styles for all pages */
 body {
     background-color: #f0f2f5;
-}
-.signUpButton{
-    margin-left: 40%;
-}
-i {
-    margin-right: 10px;
 }
 .homeIcon{
     color: gray;
@@ -15,16 +10,25 @@ i {
     color: black;
     font-size: 1.5rem;
 }
+i {
+    margin-right: 10px;
+}
+/* home page styles */
 .signUpPageButton{
     transition: font-size 2s;
 }
 .signUpPageButton:hover {
     font-size: 1.5rem;
 }
+.mainImg2 {
+    width: 31%;
+}
+/* sign up page styles */
+.signUpButton{
+    margin-left: 40%;
+}
+/* stash and project page styles */
 .card img{
     height: 15rem;
     object-fit: cover;
-}
-.mainImg2 {
-    width: 31%;
 }
