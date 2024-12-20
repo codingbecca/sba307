@@ -1,0 +1,27 @@
+body {
+    background-color: #f0f2f5;
+}
+.signUpButton{
+    margin-left: 40%;
+}
+i {
+    margin-right: 10px;
+}
+.homeIcon{
+    color: gray;
+    transition: all 2s;
+}
+.homeIcon:hover {
+    color: black;
+    font-size: 1.5rem;
+}
+.signUpPageButton{
+    transition: font-size 2s;
+}
+.signUpPageButton:hover {
+    font-size: 1.5rem;
+}
+.card img{
+    height: 15rem;
+    object-fit: cover;
+}
